@@ -1,0 +1,14 @@
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\web.config
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\CalenderApiBLL.deps.json
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\CalenderApiBLL.dll
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\CalenderApiBLL.pdb
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\CalenderApiDAL.dll
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\bin\Debug\netstandard2.1\CalenderApiDAL.pdb
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.csproj.AssemblyReference.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.AssemblyInfoInputs.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.AssemblyInfo.cs
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.csproj.CoreCompileInputs.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.csproj.CopyComplete
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.dll
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiBLL\obj\Debug\netstandard2.1\CalenderApiBLL.pdb

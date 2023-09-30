@@ -1,0 +1,10 @@
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\bin\Release\netstandard2.1\CalenderApiDAL.deps.json
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\bin\Release\netstandard2.1\CalenderApiDAL.dll
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\bin\Release\netstandard2.1\CalenderApiDAL.pdb
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.csproj.AssemblyReference.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.AssemblyInfoInputs.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.AssemblyInfo.cs
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.csproj.CoreCompileInputs.cache
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.dll
+C:\Users\Platf\OneDrive\Desktop\CalenderApi\CalenderApi\CalenderApiDAL\obj\Release\netstandard2.1\CalenderApiDAL.pdb

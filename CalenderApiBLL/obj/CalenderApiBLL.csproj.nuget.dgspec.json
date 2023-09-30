@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiBLL\\CalenderApiBLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiBLL\\CalenderApiBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiBLL\\CalenderApiBLL.csproj",
+        "projectName": "CalenderApiBLL",
+        "projectPath": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiBLL\\CalenderApiBLL.csproj",
+        "packagesPath": "C:\\Users\\Platf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Platf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\CalenderApiDAL.csproj": {
+                "projectPath": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\CalenderApiDAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\CalenderApiDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\CalenderApiDAL.csproj",
+        "projectName": "CalenderApiDAL",
+        "projectPath": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\CalenderApiDAL.csproj",
+        "packagesPath": "C:\\Users\\Platf\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Platf\\OneDrive\\Desktop\\CalenderApi\\CalenderApi\\CalenderApiDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Platf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
